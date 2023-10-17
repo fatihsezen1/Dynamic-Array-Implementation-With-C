@@ -1,0 +1,9 @@
+﻿  vector.c
+D:\CppVisualStudioWorks\FirstProject\dynamic_array_impl\vector.c(5,26): warning C4013: 'malloc' tanımsız; int döndüren extern olduğu varsayılıyor
+D:\CppVisualStudioWorks\FirstProject\dynamic_array_impl\vector.c(5,48): warning C4312: 'tür dönüştürme': 'int' öğesinden daha büyük boyutlu 'PVector' öğesine dönüştürme
+D:\CppVisualStudioWorks\FirstProject\dynamic_array_impl\vector.c(11,54): warning C4312: 'tür dönüştürme': 'int' öğesinden daha büyük boyutlu 'DATATYPE *' öğesine dönüştürme
+D:\CppVisualStudioWorks\FirstProject\dynamic_array_impl\vector.c(13,3): warning C4013: 'free' tanımsız; int döndüren extern olduğu varsayılıyor
+D:\CppVisualStudioWorks\FirstProject\dynamic_array_impl\vector.c(36,2): warning C4013: 'memmove' tanımsız; int döndüren extern olduğu varsayılıyor
+D:\CppVisualStudioWorks\FirstProject\dynamic_array_impl\vector.c(76,30): warning C4013: 'realloc' tanımsız; int döndüren extern olduğu varsayılıyor
+D:\CppVisualStudioWorks\FirstProject\dynamic_array_impl\vector.c(76,74): warning C4312: 'tür dönüştürme': 'int' öğesinden daha büyük boyutlu 'DATATYPE *' öğesine dönüştürme
+D:\CppVisualStudioWorks\FirstProject\dynamic_array_impl\vector.c(179): warning C4716: 'ClearVec' : bir değer döndürmelidir
